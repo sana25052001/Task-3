@@ -3,7 +3,7 @@ int prime(int,int);
 
 int main()
 {
-int a=454545,check;
+int a=456456,check;
 printf("the entered number is %d\n",a);
 check= prime(a,a/2);
 if(check==1)
